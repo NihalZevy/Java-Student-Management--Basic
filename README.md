@@ -50,9 +50,13 @@ This project is designed to help learners practice **object-oriented programming
 
 ## 📂 Project Structure
 StudentManagementSystem.java
+
 ├── Student (model class)
+
 ├── Course (model class)
+
 ├── Enrollment (model class)
+
 └── Main method (launches GUI)
 
 
